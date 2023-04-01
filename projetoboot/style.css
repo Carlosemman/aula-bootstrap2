@@ -1,0 +1,27 @@
+.bnt-edit:hover{
+
+background-color: transparent;
+border: 1px solid;
+font-weight:400;
+
+}
+
+body{
+
+background-color:rgb(252, 238, 140, 0.2) ;
+
+}
+
+header{
+background-color: #40957f; 
+
+}
+nav{
+
+    background-color: #3c515d;
+
+}
+.principal{
+min-height: 800px;
+
+}
